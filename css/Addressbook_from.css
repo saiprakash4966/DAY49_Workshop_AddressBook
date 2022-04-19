@@ -1,4 +1,6 @@
-/* UC 1 */
+
+  
+  /* UC 1 */
 
 * {
     box-sizing: border-box;
@@ -163,3 +165,11 @@
   .zipcode {
     padding: 15px 12px;
   }
+
+  /* uc 4 */
+error-output {
+  margin-left: 10px;
+  font-size: 14px;
+  font-style: italic;
+  color: red;
+}
